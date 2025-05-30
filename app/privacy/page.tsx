@@ -15,7 +15,7 @@ export default function PrivacyPage() {
             Política de Privacidad
           </h1>
           <p style={{ color: "#6b7280", textAlign: "center", marginBottom: "2rem" }}>
-            Última actualización: 1 de enero de 2024
+            Última actualización: 1 de enero de 2025
           </p>
         </div>
       </section>
