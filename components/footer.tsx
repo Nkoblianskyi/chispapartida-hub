@@ -78,7 +78,7 @@ export default function Footer() {
             gap: "1rem",
           }}
         >
-          <p style={{ color: "#a16207" }}>© 2024 ChispaPartida Hub. Todos los derechos reservados.</p>
+          <p style={{ color: "#a16207" }}>© 2025 ChispaPartida Hub. Todos los derechos reservados.</p>
           <div style={{ display: "flex", gap: "1rem" }}>
             <Link
               href="/privacy"

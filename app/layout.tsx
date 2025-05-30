@@ -13,7 +13,6 @@ export const metadata: Metadata = {
   title: "ChispaPartida Hub - Desarrolladores de Juegos Plinko",
   description:
     "Somos desarrolladores y diseñadores especializados en juegos Plinko. Creamos tableros únicos y experiencias de juego innovadoras.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
